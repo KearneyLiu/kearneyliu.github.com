@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Kearney Liu'
 SITENAME = u"Kearney Liu's Home"
-SITEURL = ''
+SITEURL = 'htpp://www.kearneyliu.com'
+# GITHUB_URL - 'https://github.com/kearneyliu'
 
 RELATIVE_URLS = True
 DEFAULT_PAGINATION = 5
@@ -25,14 +26,17 @@ TRANSLATION_FEED_ATOM = None
 # Blogroll
 LINKS =  (('Google', 'https://www.google.com/ncr'),
           ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+          
+          )
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/kearneyliu'),
-          ('Another social link', '#'),)
+          ('Weibo', 'http://weibo.com/liukaiyukearney'),
+          ('Facebook', 'https://www.facebook.com/profile.php?id=100004019769371'),
+          ('RenRen','http://www.renren.com/250927132/profile'),
+          )
 
-DEFAULT_PAGINATION = 10
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

@@ -39,7 +39,23 @@ SOCIAL = (('Github', 'https://github.com/kearneyliu'),
           ('RenRen','http://www.renren.com/250927132/profile'),
           )
 
-
+PLUGIN_PATH = u"pelican-plugins"
+PLUGINS = ["sitemap"]
+SITEMAP = {
+            "format": "xml",
+             "priorities":
+            {
+                "articles": 0.7,
+                "indexes": 0.5,
+                "pages": 0.3,
+            },
+            "changefreqs": 
+            {
+                "articles": "monthly",
+                "indexes": "daily",
+                "pages": "monthly",
+            }
+          }
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

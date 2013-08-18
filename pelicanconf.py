@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Kearney Liu'
 SITENAME = u"Kearney Liu's Home"
 SITEURL = 'htpp://www.kearneyliu.com'
-# GITHUB_URL - 'https://github.com/kearneyliu'
+GITHUB_URL = 'https://github.com/kearneyliu'
 DISQUS_SITENAME = u"kearneyliu"
 
 GOOGLE_ANALYTICS = 'UA-43258597-1'

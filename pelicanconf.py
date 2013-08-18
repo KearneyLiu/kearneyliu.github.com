@@ -8,6 +8,8 @@ SITEURL = 'htpp://www.kearneyliu.com'
 # GITHUB_URL - 'https://github.com/kearneyliu'
 DISQUS_SITENAME = u"kearneyliu"
 
+GOOGLE_ANALYTICS = 'UA-43258597-1'
+
 RELATIVE_URLS = True
 DEFAULT_PAGINATION = 5
 

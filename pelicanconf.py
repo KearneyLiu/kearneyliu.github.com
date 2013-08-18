@@ -6,6 +6,7 @@ AUTHOR = u'Kearney Liu'
 SITENAME = u"Kearney Liu's Home"
 SITEURL = 'htpp://www.kearneyliu.com'
 # GITHUB_URL - 'https://github.com/kearneyliu'
+DISQUS_SITENAME = u"wmtws9dsj"
 
 RELATIVE_URLS = True
 DEFAULT_PAGINATION = 5

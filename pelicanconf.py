@@ -47,15 +47,15 @@ SITEMAP = {
             "format": "xml",
              "priorities":
             {
-                "blog/articles": 0.7,
-                "blog/indexes": 0.5,
-                "blog/pages": 0.3,
+                "articles": 0.7,
+                "indexes": 0.5,
+                "pages": 0.3,
             },
             "changefreqs": 
             {
-                "blog/articles": "monthly",
-                "blog/indexes": "daily",
-                "blog/pages": "monthly",
+                "articles": "monthly",
+                "indexes": "daily",
+                "pages": "monthly",
             }
           }
 

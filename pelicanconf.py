@@ -25,7 +25,7 @@ DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DEFAULT_LANG = u'zh'
 
 # Feed generation is usually not desired when developing
-FEED_RSS = 'blog/feeds/all.rss.xml'
+FEED_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 # Blogroll

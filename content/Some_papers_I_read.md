@@ -1,7 +1,7 @@
 Title: Some papers I read about Opinion Mining and Sentiment Analysis and my notes
 Date: 2013-08-19
 Category: Research
-Tag: Sentiment Analysis, Twitter, Paper 
+Tags: Sentiment Analysis, Twitter, Paper 
 
 My research interest is **Opinion Mining and Sentiment Analysis**. These days I read a lot of papers. Here are some of them. Share with you.
 

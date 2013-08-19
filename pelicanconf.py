@@ -25,9 +25,8 @@ DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 DEFAULT_LANG = u'zh'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
+FEED_RSS = 'blog/feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 # Blogroll
 LINKS =  (('Google', 'https://www.google.com/ncr'),

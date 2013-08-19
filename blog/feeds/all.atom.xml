@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kearney Liu's Home</title><link href="htpp://www.kearneyliu.com/" rel="alternate"></link><link href="htpp://www.kearneyliu.com/feeds/all.atom.xml" rel="self"></link><id>htpp://www.kearneyliu.com/</id><updated>2013-08-19T00:00:00+08:00</updated><entry><title>Some papers I read about Opinion Mining and Sentiment Analysis and my notes</title><link href="htpp://www.kearneyliu.com/pages/2013/08/19/some-papers-i-read-about-opinion-mining-and-sentiment-analysis-and-my-notes.html" rel="alternate"></link><updated>2013-08-19T00:00:00+08:00</updated><author><name>Kearney Liu</name></author><id>tag:htpp://www.kearneyliu.com,2013-08-19:pages/2013/08/19/some-papers-i-read-about-opinion-mining-and-sentiment-analysis-and-my-notes.html</id><summary type="html">&lt;p&gt;My research interest is &lt;strong&gt;Opinion Mining and Sentiment Analysis&lt;/strong&gt;. These days I read a lot of papers. Here are some of them. Share with you.&lt;/p&gt;
+&lt;h3&gt;Sentiment Analysis of Twitter Data&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Apoorv Agarwal, ACL 2011&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;Main Approaches&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;POS-specific prior polarity feature&lt;/li&gt;
+&lt;li&gt;tree kernel to obviate the need for tedious feature engineering &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Notes&lt;/h4&gt;
+&lt;p&gt;In all, the author just care more about the polarity of English word(non-stop) and its POS features. Besides, he proposes two models compared with baseline(unigram), and proves his methods are greater than the baseline. However, I think there may be some improvements, for instance, to use Standford NLP implement and achieve more info about the tree.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Merging SenticNet and WordNet-Affect Emotion Lists for Sentiment Analysis&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Soujanya Porial, ICSP2012&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;Main motivation&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;adding new useful information to SenticNet entries&lt;/li&gt;
+&lt;li&gt;Expanding WordNet-Affect emotion lists with the SenticNet concepts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Main approach&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;For classification, the author used two kinds of features of the concepts &lt;/li&gt;
+&lt;li&gt;ISEAR data-based features&lt;/li&gt;
+&lt;li&gt;Features based on similarity measures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Notes&lt;/h4&gt;
+&lt;p&gt;This paper tells us how to expand a exiting sentiment lexicon to involve more words. The method he uses is excellent, and enlightens me how to expand the SenticNet lexicon.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Semantic Sentiment Analysis of Twitter&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Hassan Saif, Iswc2012&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;Main Approach&lt;/h4&gt;
+&lt;p&gt;Introduce and implement a new set of semantic features for training a model for sentiment analysis of tweets.&lt;/p&gt;
+&lt;p&gt;a new type of features for sentiment analysis, called semantic features, where for each entity in a tweet (e.g. iPhone, iPad, MacBook), the abstract concept that represents it will be added as a new feature (e.g. Apple product)&lt;/p&gt;
+&lt;h4&gt;Notes&lt;/h4&gt;
+&lt;p&gt;In this paper, the author extracts each entity in a tweet, and make up the concept. But I think it may be too sparse, if some tweets does not involve these words, the results could not be good. &lt;/p&gt;</summary><category term="Sentiment Analysis"></category><category term="Twitter"></category><category term="Paper"></category></entry><entry><title>Hello, BLOG!</title><link href="htpp://www.kearneyliu.com/pages/2013/08/14/hello-blog.html" rel="alternate"></link><updated>2013-08-14T00:00:00+08:00</updated><author><name>Kearney Liu</name></author><id>tag:htpp://www.kearneyliu.com,2013-08-14:pages/2013/08/14/hello-blog.html</id><summary type="html">&lt;p&gt;This is my own blog and I will tell what I think to the world!&lt;/p&gt;</summary><category term="Hello"></category></entry></feed>

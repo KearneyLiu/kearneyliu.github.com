@@ -57,8 +57,8 @@
 
     <div class='article'>
         <div class="content-title">
-            <a href="./hello-blog.html"><h1>Hello, BLOG!</h1></a>
-2013-08-14
+            <a href="./some-papers-i-read-about-opinion-mining-and-sentiment-analysis-and-my-notes.html"><h1>Some papers I read about Opinion Mining and Sentiment Analysis and my notes</h1></a>
+2013-08-19
 
 by <a class="url fn" href="./author/kearney-liu.html">Kearney Liu</a>
  
@@ -67,10 +67,61 @@ by <a class="url fn" href="./author/kearney-liu.html">Kearney Liu</a>
  
         </div>
         
-        <div><p>This is my own blog and I will tell what I think to the world!</p></div>
+        <div><p>My research interest is <strong>Opinion Mining and Sentiment Analysis</strong>. These days I read a lot of papers. Here are some of them. Share with you.</p>
+<h3>Sentiment Analysis of Twitter Data</h3>
+<p><em>Apoorv Agarwal, ACL 2011</em></p>
+<h4>Main Approaches</h4>
+<ul>
+<li>POS-specific prior polarity feature</li>
+<li>tree kernel to obviate the need for tedious feature engineering </li>
+</ul>
+<h4>Notes</h4>
+<p>In all, the author just care more about the polarity of English word(non-stop) and its POS features. Besides, he proposes two models compared with baseline(unigram), and proves his methods are greater than the baseline. However, I think there may be some improvements, for instance, to use Standford NLP implement and achieve more info about the tree.</p>
+<hr />
+<h3>Merging SenticNet and WordNet-Affect Emotion Lists for Sentiment Analysis</h3>
+<p><em>Soujanya Porial, ICSP2012</em></p>
+<h4>Main motivation</h4>
+<ul>
+<li>adding new useful information to SenticNet entries</li>
+<li>Expanding WordNet-Affect emotion lists with the SenticNet concepts</li>
+</ul>
+<h4>Main approach</h4>
+<ul>
+<li>For classification, the author used two kinds of features of the concepts </li>
+<li>ISEAR data-based features</li>
+<li>Features based on similarity measures</li>
+</ul>
+<h4>Notes</h4>
+<p>This paper tells us how to expand a exiting sentiment lexicon to involve more words. The method he uses is excellent, and enlightens me how to expand the SenticNet lexicon.</p>
+<hr />
+<h3>Semantic Sentiment Analysis of Twitter</h3>
+<p><em>Hassan Saif, Iswc2012</em></p>
+<h4>Main Approach</h4>
+<p>Introduce and implement a new set of semantic features for training a model for sentiment analysis of tweets.</p>
+<p>a new type of features for sentiment analysis, called semantic features, where for each entity in a tweet (e.g. iPhone, iPad, MacBook), the abstract concept that represents it will be added as a new feature (e.g. Apple product)</p>
+<h4>Notes</h4>
+<p>In this paper, the author extracts each entity in a tweet, and make up the concept. But I think it may be too sparse, if some tweets does not involve these words, the results could not be good. </p></div>
         <hr />
     </div>
 		
+
+ 
+        
+
+ 
+
+    <div class='article'>
+        <a href="./hello-blog.html"><h2>Hello, BLOG!</h2></a>
+        <div class= "well small"> 2013-08-14
+
+by <a class="url fn" href="./author/kearney-liu.html">Kearney Liu</a>
+ 
+
+
+ </div>
+        <div class="summary"><p>This is my own blog and I will tell what I think to the world!</p> <a class="btn btn-info xsmall" href="./hello-blog.html">read more</a></div>
+    </div>	
+				
 <div class="pagination">
 <ul>
     <li class="prev disabled"><a href="#">&larr; Previous</a></li>
@@ -106,7 +157,8 @@ by <a class="url fn" href="./author/kearney-liu.html">Kearney Liu</a>
                 Categories
                 </li>
                 
-                <li><a href="./category/hello.html">Hello</a></li>
+                <li><a href="./category/life.html">Life</a></li>
+                <li><a href="./category/research.html">Research</a></li>
                    
             </ul>
             </div>

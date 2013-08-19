@@ -7,8 +7,11 @@ SITENAME = u"Kearney Liu's Home"
 SITEURL = 'htpp://www.kearneyliu.com'
 GITHUB_URL = 'https://github.com/kearneyliu'
 DISQUS_SITENAME = u"kearneyliu"
-
 GOOGLE_ANALYTICS = 'UA-43258597-1'
+
+ARCHIVES_URL = 'archives.html'
+ARTICLE_URL = 'pages/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
+ARTICLE_SAVE_AS = 'pages/{date:%Y}/{date:%m}/{date:%d}/{slug}.html'
 
 RELATIVE_URLS = True
 DEFAULT_PAGINATION = 5

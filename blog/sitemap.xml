@@ -5,9 +5,16 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.kearneyliu.com/blog/pages/about.html</loc>
-<lastmod>2013-08-20T02:17:43-00:00</lastmod>
+<lastmod>2013-09-30T20:14:30-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
+</url>
+
+<url>
+<loc>http://www.kearneyliu.com/blog/pages/2013/09/30/deliverable-readable.html</loc>
+<lastmod>2013-09-30T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -26,49 +33,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.kearneyliu.com/blog/category/life.html</loc>
-<lastmod>2013-08-20T02:17:43-00:00</lastmod>
+<lastmod>2013-09-30T20:14:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/category/research.html</loc>
-<lastmod>2013-08-20T02:17:43-00:00</lastmod>
+<lastmod>2013-09-30T20:14:30-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.kearneyliu.com/blog/tag/project.html</loc>
+<lastmod>2013-09-30T20:14:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/twitter.html</loc>
-<lastmod>2013-08-20T02:17:43-00:00</lastmod>
+<lastmod>2013-09-30T20:14:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/paper.html</loc>
-<lastmod>2013-08-20T02:17:43-00:00</lastmod>
+<lastmod>2013-09-30T20:14:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/sentiment-analysis.html</loc>
-<lastmod>2013-08-20T02:17:43-00:00</lastmod>
+<lastmod>2013-09-30T20:14:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/hello.html</loc>
-<lastmod>2013-08-20T02:17:43-00:00</lastmod>
+<lastmod>2013-09-30T20:14:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/author/kearney-liu.html</loc>
-<lastmod>2013-08-20T02:17:43-00:00</lastmod>
+<lastmod>2013-09-30T20:14:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

@@ -3,7 +3,6 @@ Date: 2013-09-30
 Category: Life
 Tags: Project
 
-#Deliverable & Readable
 
 Recently, I am invloved into a project with full of energy, so I have not updated my blog for one month. However, I achieved many experience about designing and making a software, such as **deliverable** and **clean code**.
 

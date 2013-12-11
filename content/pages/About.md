@@ -10,8 +10,8 @@ Love programming in the development environment Mac OS X + Vim + Git. Focus on S
 
 To some extent, I am fond of the spirit of geek and love all things full of life.
 
-My CV(Resumé) is on [Gist](https://gist.github.com/KearneyLiu/7912917>) and I will update it in several months.
+My CV(Resumé) is on [Gist](https://gist.github.com/KearneyLiu/7912917) and I will update it in several months.
 
-####**I am training hard pietist, and also competition enthusiast.**
+###**I am a training hard pietist, and also a competition enthusiast.**
 
 

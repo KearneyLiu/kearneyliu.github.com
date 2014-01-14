@@ -4,7 +4,7 @@ Hello, everyone!
 
 I am applying for a master degree now and I will graduate from BUPT in July, 2014. 
 
-With the Pelican technology, this blog is rooed in Github. At here, I will share some of my research interests, life with you.
+With the Pelican technology, this blog is rooted in Github. At here, I will share some of my research interests, life with you.
 
 Love programming in the development environment Mac OS X + Vim + Git. Focus on Shortcuts keys when programming. Enjoy in Github, Quora, Stackoverflow.
 

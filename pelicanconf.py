@@ -41,7 +41,7 @@ SOCIAL = (('Github', 'https://github.com/kearneyliu'),
           ('RenRen','http://www.renren.com/250927132/profile'),
           )
 
-PLUGIN_PATH = u"pelican-plugins"
+PLUGIN_PATH = u"/Users/liukaiyu/myblog/pelican-plugins"
 PLUGINS = ["sitemap"]
 SITEMAP = {
             "format": "xml",

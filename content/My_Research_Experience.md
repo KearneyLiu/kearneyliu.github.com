@@ -5,7 +5,7 @@ Tags: Research, Industrial-related Research
 
 In 2013, I did some projects of both research and industry. Moreover, in the whole undergraduate study, many projects and courseworks really help me improve my expertise skills and broaden my horizons. I will present my experience in a series of blogs:)
 
-####Industrial Research Experience
+###Industrial Research Experience###
 
 *August, 2013 - Present*
 
@@ -19,7 +19,7 @@ At first, I will highlight some points on this project.
 - In the term extraction part, I need to pre-process the natural term, and segment the diagnosis, the drug into the right blank. Based on the system delimiter, I used regular expression (regex) to make them into segmentations, and load the medical ontology from the database, to extract drug general name, brand name, and chemical name from the segmentations in the algorithms of recursion, with the data structures of HashMap and ArrayList. 
 - In the normalization part, I used Luence, an information retrieval package for Java, to match the possible terms from normalized data in database. In addition, implementing vector space model, I improve the Lucene Score algorithm which is originally based on TF-IDF, and 15% precision rised. The whole system processed on Apache Tomcat framework, and I also designed a dispatching system to return the needed data if other people requests.
 As this is my first industry project, I achieved many software development experience from my advisor and co-workers. I consider I will show better in the next stage of graduate study.
-#### Research Experience ####
+### Research Experience ###
 *June, 2013 - Sep. 2013*
 **Opinion Mining and Sentiment Analysis of Twitter Data**
 - Used dependency trees and machine learning methods to analyze the sentiment of tweets. - Applied SenticNet and SentiWordNet lexicons to evaluate the results on Twitter.- Proposed new ideas of more specific linguistic features of the dataset

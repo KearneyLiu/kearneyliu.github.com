@@ -57,8 +57,8 @@
 
     <div class='article'>
         <div class="content-title">
-            <a href="../pages/2013/08/19/some-papers-i-read-about-opinion-mining-and-sentiment-analysis-and-my-notes.html"><h1>Some papers I read about Opinion Mining and Sentiment Analysis and my notes</h1></a>
-2013-08-19
+            <a href="../pages/2014/01/14/my-research-experience.html"><h1>My Research Experience</h1></a>
+2014-01-14
 
 by <a class="url fn" href="../author/kearney-liu.html">Kearney Liu</a>
  
@@ -67,40 +67,39 @@ by <a class="url fn" href="../author/kearney-liu.html">Kearney Liu</a>
  
         </div>
         
-        <div><p>My research interest is <strong>Opinion Mining and Sentiment Analysis</strong>. These days I read a lot of papers. Here are some of them. Share with you.</p>
-<h3>Sentiment Analysis of Twitter Data</h3>
-<p><em>Apoorv Agarwal, ACL 2011</em></p>
-<h4>Main Approaches</h4>
+        <div><p>In 2013, I did some projects of both research and industry. Moreover, in the whole undergraduate study, many projects and courseworks really help me improve my expertise skills and broaden my horizons. I will present my experience in a series of blogs:)</p>
+<h4>Industrial Research Experience</h4>
+<p><em>August, 2013 - Present</em></p>
+<p>At first, I will highlight some points on this project.</p>
+<p><strong>Natural Language Processing System with Machine Learning in Business Intelligence </strong></p>
+<p><em>Collaboration with Asia Gateway, Beijing</em></p>
 <ul>
-<li>POS-specific prior polarity feature</li>
-<li>tree kernel to obviate the need for tedious feature engineering </li>
+<li>Performed text extraction and normalization for Chinese medical terms acquired from hospitals</li>
+<li>Optimized the Lucene Scoring algorithm with Vector Space Model for normalizing queries</li>
+<li>Improved the normalization precision by about 15% and F1-score by about 7%</li>
+<li>Designed a feedback system with machine learning to improve the precision of auto-normalization.</li>
+<li>Used on Apache Tomcat framework and processed terabytes of medical data</li>
 </ul>
-<h4>Notes</h4>
-<p>In all, the author just care more about the polarity of English word(non-stop) and its POS features. Besides, he proposes two models compared with baseline(unigram), and proves his methods are greater than the baseline. However, I think there may be some improvements, for instance, to use Standford NLP implement and achieve more info about the tree.</p>
-<hr />
-<h3>Merging SenticNet and WordNet-Affect Emotion Lists for Sentiment Analysis</h3>
-<p><em>Soujanya Porial, ICSP2012</em></p>
-<h4>Main motivation</h4>
+<p>In this industry-related research in the CSLT lab of Tsinghua University, I designed and developed a natural language processing system written in Java. I’m responsible for the term extraction and normalization for Chinese medical terms. In this project, I write codes with a more systematic thinking and attention to all the details such as naming the classes and functions, writing a well-organized Javadoc, comments of the codes, and communicating effectively with other engineers. </p>
 <ul>
-<li>adding new useful information to SenticNet entries</li>
-<li>Expanding WordNet-Affect emotion lists with the SenticNet concepts</li>
+<li>
+<p>In the term extraction part, I need to pre-process the natural term, and segment the diagnosis, the drug into the right blank. Based on the system delimiter, I used regular expression (regex) to make them into segmentations, and load the medical ontology from the database, to extract drug general name, brand name, and chemical name from the segmentations in the algorithms of recursion, with the data structures of HashMap and ArrayList. </p>
+</li>
+<li>
+<p>In the normalization part, I used Luence, an information retrieval package for Java, to match the possible terms from normalized data in database. In addition, implementing vector space model, I improve the Lucene Score algorithm which is originally based on TF-IDF, and 15% precision rised. The whole system processed on Apache Tomcat framework, and I also designed a dispatching system to return the needed data if other people requests.</p>
+</li>
 </ul>
-<h4>Main approach</h4>
+<p>As this is my first industry project, I achieved many software development experience from my advisor and co-workers. I consider I will show better in the next stage of graduate study.</p>
+<h4>Research Experience</h4>
+<p><em>June, 2013 - Sep. 2013</em></p>
+<p><strong>Opinion Mining and Sentiment Analysis of Twitter Data</strong></p>
 <ul>
-<li>For classification, the author used two kinds of features of the concepts </li>
-<li>ISEAR data-based features</li>
-<li>Features based on similarity measures</li>
+<li>Used dependency trees and machine learning methods to analyze the sentiment of tweets. </li>
+<li>Applied SenticNet and SentiWordNet lexicons to evaluate the results on Twitter.</li>
+<li>Proposed new ideas of more specific linguistic features of the dataset</li>
 </ul>
-<h4>Notes</h4>
-<p>This paper tells us how to expand a exiting sentiment lexicon to involve more words. The method he uses is excellent, and enlightens me how to expand the SenticNet lexicon.</p>
-<hr />
-<h3>Semantic Sentiment Analysis of Twitter</h3>
-<p><em>Hassan Saif, Iswc2012</em></p>
-<h4>Main Approach</h4>
-<p>Introduce and implement a new set of semantic features for training a model for sentiment analysis of tweets.</p>
-<p>a new type of features for sentiment analysis, called semantic features, where for each entity in a tweet (e.g. iPhone, iPad, MacBook), the abstract concept that represents it will be added as a new feature (e.g. Apple product)</p>
-<h4>Notes</h4>
-<p>In this paper, the author extracts each entity in a tweet, and make up the concept. But I think it may be too sparse, if some tweets does not involve these words, the results could not be good. </p></div>
+<p>When my spring course of 2013 come to an end, I started to do the research in the Center for Speech and Language Technologies in Tsinghua University. nder the supervision with Dr. Xia, a computer science professor in the Center, I gained intensive amount of hands-on experience of artificial intelligence research as well as advanced topics such as topic model and latent dirichlet allocation. The intellectual academic environment in the Center made me identify weakness, and search for improvement strategies by discussing with project managers and fellow student researchers. The research experiences have truly broadened my horizon and opened doors for me to develop original research ideas. </p>
+<p>I would explain my research of opinion mining process in next time.</p></div>
         <hr />
     </div>
 		
@@ -108,7 +107,7 @@ by <a class="url fn" href="../author/kearney-liu.html">Kearney Liu</a>
 <ul>
     <li class="prev disabled"><a href="#">&larr; Previous</a></li>
 
-    <li class="active"><a href="../tag/paper.html">1</a></li>
+    <li class="active"><a href="../tag/industrial-related-research.html">1</a></li>
 
     <li class="next disabled"><a href="#">&rarr; Next</a></li>
 

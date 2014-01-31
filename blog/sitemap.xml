@@ -5,9 +5,16 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.kearneyliu.com/blog/pages/about.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.3</priority>
+</url>
+
+<url>
+<loc>http://www.kearneyliu.com/blog/pages/2014/01/31/happy-chinese-new-year.html</loc>
+<lastmod>2014-01-31T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
 </url>
 
 <url>
@@ -47,91 +54,105 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.kearneyliu.com/blog/category/life.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/category/research.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/category/tech.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/industrial-related-research.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/twitter.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/coursework.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/technology-experience.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/research.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/project.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/paper.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/sentiment-analysis.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.kearneyliu.com/blog/tag/2014.html</loc>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.kearneyliu.com/blog/tag/chinese-new-year.html</loc>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/tag/hello.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.kearneyliu.com/blog/author/kearney-liu.html</loc>
-<lastmod>2014-01-17T01:46:52-00:00</lastmod>
+<lastmod>2014-01-31T21:53:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

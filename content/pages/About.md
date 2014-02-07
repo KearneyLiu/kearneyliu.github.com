@@ -16,4 +16,9 @@ My CV(Resumé) is on [Gist](https://gist.github.com/KearneyLiu/7912917) and I wi
 
 ###**I am a training hard pietist, and also a competition enthusiast.**
 
+---
+
+I admire & love Kobe Bryant's spirit of insisting and hard working.
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/SlGP09AqPiE" frameborder="0" allowfullscreen></iframe>
 
